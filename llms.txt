@@ -23,6 +23,9 @@
 - [Plumbing Company in Greeley: A Homeowner’s Guide](https://local-business-guides.github.io/colorado-best-plumbers-greeley/plumbing-company-in-greeley/): Need a plumbing company in Greeley? Get practical hiring tips for your home, then call Colorado Best Plumbers in Greeley to discuss the job.
 - [Best Plumber in Greeley: What to Ask Before Hiring](https://local-business-guides.github.io/colorado-best-plumbers-greeley/best-plumber/): Looking for the best plumber? Learn what to ask and prepare before a plumbing visit in Greeley, then call Colorado Best Plumbers to talk it over.
 
+## Newsroom
+- [Colorado Best Plumbers Publishes New Guide to Greeley Plumber](https://local-business-guides.github.io/colorado-best-plumbers-greeley/news/2026-11-07-colorado-best-plumbers-publishes-new-guide-to/): Colorado Best Plumbers published a guide to Greeley Plumber this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-07)
+
 ## Pages
 - [Greeley Plumber in Colorado](https://local-business-guides.github.io/colorado-best-plumbers-greeley/): Get help with plumbing questions and service needs from a local Greeley business. Call +1970-373-0753.
 - [About Colorado Best Plumbers](https://local-business-guides.github.io/colorado-best-plumbers-greeley/about/): About Colorado Best Plumbers, Greeley.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/colorado-best-plumbers-greeley/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/colorado-best-plumbers-greeley/news/rss.xml)
 - [Main resource site](https://colorado-best-plumbers-greeley.localwebsites.chatgpt.site)
